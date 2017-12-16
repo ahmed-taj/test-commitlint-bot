@@ -34,7 +34,7 @@ form:
     # A field may has a description. Description text will be rendered as inline
     # Markdown
     # You may also write
-    help: >
+    desc: >
       Use [plnkr](https://plnkr.co) or similar (you can use
       [this template](http://plnkr.co/edit/tpl:AvJOMERrnz94ekVua0u5) as a
       starting point).
