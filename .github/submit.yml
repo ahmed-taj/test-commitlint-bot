@@ -6,7 +6,7 @@ meta:
     - Feature Requests
     - Bug report
   # This will be shown on the top of the issue form
-  tip:  For support questions, please use stackoverflow.
+  note:  For support questions, please use stackoverflow.
 
 form:
   # All keys - except "meta" - will be considered as fields. There is only one
